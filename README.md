@@ -1,11 +1,11 @@
 # jd_wool
 
-#DONE
+# DONE
 1. 京豆签到
 2. 京喜工厂自动生产
 
 
-#DOING
+# DOING
 1. 整合京喜工厂自动化任务
 
 
